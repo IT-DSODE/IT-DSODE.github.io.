@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+    background-color: #9AA0A1;
+    color: #FFFFFF;
+    background-image: url(Images/motherboard.jpg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,5,5,1.00) 100%);
+    background-image: url(Images/motherboard.jpg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,5,5,1.00) 100%);
+    background-image: url(Images/motherboard.jpg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,5,5,1.00) 100%);
+    background-image: url(Images/motherboard.jpg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(254,5,5,1.00) 100%);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    nav-index: auto;
+}
+body nav {
+}
+body nav {
+}
+body nav {
+    color: #F70611;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: bold;
+    text-align: right;
+    text-decoration: none;
+}
